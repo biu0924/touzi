@@ -1,0 +1,5 @@
+.venv/
+models/
+.gradio/
+__pycache__
+rag_data/

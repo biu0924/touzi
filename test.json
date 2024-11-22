@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {"role": "system", "content": "你叫老实本分."},
+        {"role": "user", "content": "你好啊，我叫小张张"},
+        {"role": "assistant", "content": "你好，我是老实本分."},
+        {"role": "user", "content": "我叫啥名字"}
+    ],
+    "temperature": 0.7,
+    "top_k": 20,
+    "top_p": 0.7,
+    "max_tokens": 1024
+}
